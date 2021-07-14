@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@iktakahiro/markdown-it-katex": "*",
+    "jsdom": "*",
+    "katex": "*",
+    "mariadb": "*",
+    "markdown-it": "*",
+    "markdown-it-link-attributes": "*",
+    "ws": "*"
+  },
+  "type": "module"
+}
